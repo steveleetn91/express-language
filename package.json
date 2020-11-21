@@ -1,5 +1,5 @@
 {
-  "name": "express-language",
+  "name": "express-languages",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "express",
-    "express-language",
+    "express-languages",
     "language",
     "module",
     "language",
@@ -25,7 +25,6 @@
   },
   "homepage": "https://github.com/steveleetn91/express-language#readme",
   "dependencies": {
-    "express": "^4.17.1",
     "fs": "0.0.1-security",
     "mocha": "^8.2.1"
   }
