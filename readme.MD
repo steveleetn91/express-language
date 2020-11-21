@@ -1,6 +1,6 @@
 npm install express-language
 ```
-let expressLanguage = require('express-language/core/ExpressLanguage);
+let expressLanguage = require('express-languages/core/ExpressLanguage);
 let lang = {};
 expressLanguage.setLang('en');
 expressLanguage.setPath('./test/lang/');
