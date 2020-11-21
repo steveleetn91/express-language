@@ -1,4 +1,5 @@
-[![<ORG_NAME>](https://circleci.com/github/steveleetn91/express-language)](<LINK>)
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://circleci.com/github/steveleetn91/express-language)
+
 
 npm install express-language
 ```
