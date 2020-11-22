@@ -1,7 +1,7 @@
 {
   "name": "express-languages",
-  "version": "1.0.3",
-  "description": "",
+  "version": "1.0.4",
+  "description": "This is a production of Le Minh Hoang, Vietnamese",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
@@ -12,11 +12,13 @@
   },
   "keywords": [
     "express",
+    "languages",
     "express-languages",
     "language",
     "module",
     "language",
-    "helper"
+    "helper",
+    "express language"
   ],
   "author": "Le Minh Hoang",
   "license": "ISC",
